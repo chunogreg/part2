@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "area": 338424,
+    "population": 5530719,
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "flag": "https://flagcdn.com/w320/fi.png"
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "area": 450295,
+    "population": 10353442,
+    "languages": {
+      "swe": "Swedish"
+    },
+    "flag": "https://flagcdn.com/w320/se.png"
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "area": 323802,
+    "population": 5379475,
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "flag": "https://flagcdn.com/w320/no.png"
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "area": 43094,
+    "population": 5831404,
+    "languages": {
+      "dan": "Danish"
+    },
+    "flag": "https://flagcdn.com/w320/dk.png"
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "area": 103000,
+    "population": 366425,
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "flag": "https://flagcdn.com/w320/is.png"
+  }
+]
